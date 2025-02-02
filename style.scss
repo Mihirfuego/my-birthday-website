@@ -128,7 +128,7 @@ body {
   top: -35px;
   left: 41.5%;
   /* transform: scale(0.1); */
-  }
+}
 
 .baloons img {
   display: inline-block;
@@ -193,7 +193,7 @@ body {
 }
 
 .eight svg:nth-child(7) {
-	top: 68vh;
+  top: 68vh;
   left: 83vw;
   fill: #e3bae8;
 }
@@ -258,7 +258,7 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-	.container {
+  .container {
     width: 90%;
   }
 
